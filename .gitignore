@@ -1,0 +1,7 @@
+venv/
+chroma_db/
+__pycache__/
+*.pyc
+.env
+evaluation_results.csv
+*.mp4
