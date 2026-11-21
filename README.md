@@ -70,7 +70,13 @@ streamlit run step5_app.py
 - Next: conversation memory, a feedback button, and logging of handed-off questions to improve the FAQ.
 
 ## Demo
+Watch the 2-minute demo and read the write-up on LinkedIn: [Demo video and post](https://lnkd.in/p/gfK6gEkA)
+
 ![Chat home](screenshots/01-home.png)
 ![Handoff to a human when the answer isn't in the FAQ.](screenshots/02-handoff.png)
 ![Tenant fee answer, plus a handoff for an unrelated question](screenshots/03-tenant-fee-and-handoff.png)
 ![Rental contract answer](screenshots/04-rental-contract.png)
+
+## About me
+Anshul Jain, data science and AI automation. Open to roles in the UAE.
+LinkedIn: [My profile](https://www.linkedin.com/in/anshul-jain-4a3505329/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BjzaY9YgCRuW5d%2F1eyfxe%2BQ%3D%3D)
